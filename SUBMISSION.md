@@ -1,4 +1,4 @@
-# 學校 學號 系級 姓名　AI Agents（用 LLM Wiki 做教學 HTML 簡報）
+# 高醫大 113029019 醫管資三 王芊元　用 LLM Wiki 做一份教學 HTML 簡報
 
 ## 1. LLM Wiki 主題與簡短介紹
 主題：**AI Agents 入門**。讀者設定為完全沒接觸過 agent 的大學生。
